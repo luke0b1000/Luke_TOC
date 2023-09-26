@@ -65,4 +65,4 @@ Simon Says Read App - Simon and Schuster \
 Website: https://play.google.com/store/apps/developer?id=Luke+Guan&hl=en_US \
 Summary: Use Scrapy to web crawl Simon and Schuster website and store the data in DynamoDB. Mobile app was created to display the new release items. \
  \
-Thank You for visiting! :-) \
+Thank You for visiting! :-)
